@@ -1,3 +1,4 @@
+LINK- https://churn-prediction-app-gcpdfppbappbtshac837ud.streamlit.app/
 # Customer Churn Prediction
 
 A machine learning project that estimates whether a telecom customer may leave the service. It includes exploratory data analysis, model comparison, and a Streamlit app for making predictions.
